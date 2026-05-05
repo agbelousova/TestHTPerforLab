@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-/*
+
 namespace TestHTPerfLab.task1
 {
     class task1
@@ -76,4 +76,3 @@ namespace TestHTPerfLab.task1
         }
     }
 }
-*/
